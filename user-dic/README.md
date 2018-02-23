@@ -1,4 +1,4 @@
-# 사용자 사전 추가
+# 사용자 사전 추가!
 
 ## 준비
 [mecab-ko](https://bitbucket.org/eunjeon/mecab-ko)와 [mecab-ko-dic](https://bitbucket.org/eunjeon/mecab-ko-dic) 을 다운받아 설치합니다. mecab-ko-dic 을 꼭 컴파일까지 하셔야 이후에 사전 추가가 가능합니다.
