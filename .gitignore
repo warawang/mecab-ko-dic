@@ -1,0 +1,9 @@
+.idea_modules/
+.idea
+
+# compiled dic files
+model.bin
+matrix.bin
+char.bin
+sys.dic
+unk.dic
