@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-service elasticsearch restart
+sudo service elasticsearch restart

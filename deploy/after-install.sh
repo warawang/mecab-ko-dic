@@ -1,20 +1,18 @@
 #!/usr/bin/env bash
 set -e
-sudo su -
-pwd
 
 # move to app home directory
-cd /root/mecab-ko-dic
+sudo cd /root/mecab-ko-dic
 
 ## clean
-make clean
+sudo make clean
 
 ## configure
-./configure
+sudo ./configure
 
 ## build user dic
-tools/add-userdic.sh
+sudo tools/add-userdic.sh
 
 ## build
-make
-make install
+sudo make
+sudo make install
