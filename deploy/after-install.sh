@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+sudo su -
 
 # move to app home directory
 cd /root/mecab-ko-dic
