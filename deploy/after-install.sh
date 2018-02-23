@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-echo $PATH
+export PATH=/usr/local/bin
 
 # move to app home directory
 cd /home/ec2-user/mecab-ko-dic
