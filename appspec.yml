@@ -6,9 +6,9 @@ os: linux
 
 files:
   - source: /
-    destination: /root/mecab-ko-dic
+    destination: /home/ec2-user/mecab-ko-dic
 permissions:
-  - object: /home/root
+  - object: /home/ec2-user
     owner: root
     group: root
     type:

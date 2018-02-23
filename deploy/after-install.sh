@@ -2,7 +2,7 @@
 set -e
 
 # move to app home directory
-sudo sh -c "cd /root/mecab-ko-dic"
+cd /home/ec2-user/mecab-ko-dic
 
 ## configure
 ./configure
@@ -12,4 +12,4 @@ tools/add-userdic.sh
 
 ## build
 make
-make install
+sudo make install
