@@ -2,7 +2,7 @@
 set -e
 
 # move to app home directory
-cd /root/mecab-user-dic
+cd /root/mecab-ko-dic
 
 ## clean
 make clean
