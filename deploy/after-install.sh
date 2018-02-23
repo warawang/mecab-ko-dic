@@ -14,4 +14,4 @@ tools/add-userdic.sh
 
 ## build
 make
-sudo make install
+make install
