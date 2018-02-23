@@ -7,7 +7,7 @@ export PATH=$PATH:/usr/local/bin
 cd /home/ec2-user/mecab-ko-dic
 
 ## configure
-./configure
+./autogen.sh
 
 ## build user dic
 tools/add-userdic.sh
