@@ -3,7 +3,7 @@ set -e
 sudo -s
 
 # move to app home directory
-cd /root/mecab-ko-dic
+sudo sh -c "cd /root/mecab-ko-dic"
 
 ## clean
 make clean
