@@ -8,6 +8,7 @@ cd /home/ec2-user/mecab-ko-dic
 
 ## configure
 ./autogen.sh
+./configure
 
 ## build user dic
 tools/add-userdic.sh
