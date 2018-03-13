@@ -13,6 +13,9 @@ cd /home/ec2-user/mecab-ko-dic
 ## build user dic
 tools/add-userdic.sh
 
+## 동의어 사전 복사
+cp -rf synoym/synoym.txt /etc/elasticsearch/analysis/synonym.txt
+
 ## build
 make
 make install
