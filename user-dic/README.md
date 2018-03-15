@@ -10,6 +10,7 @@
     userdic/
     ├── nnp.csv
     ├── person.csv
+    
     └── place.csv
 
 
