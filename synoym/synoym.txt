@@ -24,3 +24,75 @@
 라코스테, 라코스떼
 푸마, 퓨마
 세인트로랑, 생로랑
+미디, 미디움, MIDI
+미니, MINI
+숏, SHORT
+롱, LONG
+그물/망사, 네트
+꽈배기, 트위스트
+멜빵, 오버롤
+밴딩, 벤딩, BEND, BENDING
+벨트, BELT
+스트링, STRING
+지퍼, ZIPPER
+펀칭, 아일렛, PUNCHING
+포켓, POCKET
+프릴, FRILL
+프린팅, 프린트
+롤업, ROLLUP, ROLL-UP
+와펜, 패치
+트위드, TWEED
+테일러드, PINTUCK
+언발, 언발란스, 언발런스
+트임, 슬릿
+셔링, SHIRRING
+포켓, POCKET
+레이스, LACE
+가죽, 레더, LEATHER
+구스, GOOSE
+데님, 청, DENIM
+린넨, 리넨, LINEN
+면, 코튼, COTTON
+울, 모, WOOL
+밍크, MINK
+치노, CHINO
+모달, MODAL
+스판, SPAN
+쉬폰, 시폰, CHIFFON
+실크, SILK
+알파카, ALPACA
+앙고라, ANGORA
+폭스, FOX
+옥스포드, OXFORD
+합성피혁, 인조가죽
+저지, JERSEY
+캐시미어, CASSIMERE
+퍼, FUR
+코듀로이, CORDUROY
+스웨이드, SUEDE
+웰론, WELLON
+헤링본, HERRINGBONE
+벨벳, VELVET
+라탄, RATTAN
+도트, DOT
+플라워, 꽃, FLOWER
+레오파드, 호피
+무지, 단색
+스트라이프, 줄무늬, 단가라, STRIPE
+체크, CHECK
+기하학, 도형
+에스닉, ETHNIC
+페이즐리, PAISLEY
+트로피칼, TROPICAL
+하와이안, HAWAIIAN
+노칼라, 노카라
+브이넥, V넥, V-NECK
+반하이, 반하이웨스트
+바람막이, 윈드재킷
+컷팅, 커팅
+연청, 라이트블루
+중청, 미디엄블루
+흑청, 다크블루
+와이드, 통
+오버핏, 박시, 박스, 박스핏
+슬림, 슬림핏
